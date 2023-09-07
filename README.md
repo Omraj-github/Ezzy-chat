@@ -1,4 +1,4 @@
-# Ping-Ezzy MERN Chat App #
+# Ezzy MERN Chat App #
 A completely working and responsive chat application based on MERN stack and socket.io for realtime communication.
  
 # Features #
